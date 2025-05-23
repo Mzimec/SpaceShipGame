@@ -1,0 +1,10 @@
+^C:\USERS\STEPA\SVATYS\PROJECT\SRC\BUILD\CMAKEFILES\9E1320A133B67D8A39D50963ED323C8B\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/stepa/svatys/project/src -BC:/Users/stepa/svatys/project/src/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/stepa/svatys/project/src/build/gravity_lib.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,12 @@
+C:/Users/stepa/svatys/project/src/out/build/x64-Debug/CMakeFiles/GravityLib.dir
+C:/Users/stepa/svatys/project/src/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/stepa/svatys/project/src/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/stepa/svatys/project/src/out/build/x64-Debug/Object/CMakeFiles/object.dir
+C:/Users/stepa/svatys/project/src/out/build/x64-Debug/Object/CMakeFiles/edit_cache.dir
+C:/Users/stepa/svatys/project/src/out/build/x64-Debug/Object/CMakeFiles/rebuild_cache.dir
+C:/Users/stepa/svatys/project/src/out/build/x64-Debug/Space/CMakeFiles/space.dir
+C:/Users/stepa/svatys/project/src/out/build/x64-Debug/Space/CMakeFiles/edit_cache.dir
+C:/Users/stepa/svatys/project/src/out/build/x64-Debug/Space/CMakeFiles/rebuild_cache.dir
+C:/Users/stepa/svatys/project/src/out/build/x64-Debug/Display/CMakeFiles/display.dir
+C:/Users/stepa/svatys/project/src/out/build/x64-Debug/Display/CMakeFiles/edit_cache.dir
+C:/Users/stepa/svatys/project/src/out/build/x64-Debug/Display/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+C:/Users/stepa/svatys/project/src/build/CMakeFiles/GravityLib.dir
+C:/Users/stepa/svatys/project/src/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/stepa/svatys/project/src/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/stepa/svatys/project/src/build/Object/CMakeFiles/object.dir
+C:/Users/stepa/svatys/project/src/build/Space/CMakeFiles/space.dir
+C:/Users/stepa/svatys/project/src/build/Display/CMakeFiles/display.dir

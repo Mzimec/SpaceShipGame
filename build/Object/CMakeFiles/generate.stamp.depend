@@ -1,0 +1,9 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake
+C:/Users/stepa/source/repos/vcpkg/installed/x64-windows/share/sfml/SFMLConfig.cmake
+C:/Users/stepa/source/repos/vcpkg/installed/x64-windows/share/sfml/SFMLConfigDependencies.cmake
+C:/Users/stepa/source/repos/vcpkg/installed/x64-windows/share/sfml/SFMLConfigVersion.cmake
+C:/Users/stepa/source/repos/vcpkg/installed/x64-windows/share/sfml/SFMLSharedTargets-debug.cmake
+C:/Users/stepa/source/repos/vcpkg/installed/x64-windows/share/sfml/SFMLSharedTargets-release.cmake
+C:/Users/stepa/source/repos/vcpkg/installed/x64-windows/share/sfml/SFMLSharedTargets.cmake
+C:/Users/stepa/svatys/project/src/Object/CMakeLists.txt

@@ -1,0 +1,138 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Object",
+					"jsonFile" : "directory-Object-Debug-3fa25bcd0b45d02317c9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Object",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "Space",
+					"jsonFile" : "directory-Space-Debug-d7335a21253441774c8c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Space",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "Display",
+					"jsonFile" : "directory-Display-Debug-dc8b1fa7bcf0077a5421.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Display",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "gravity_lib",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "GravityLib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GravityLib-Debug-aa84afd1aea8f97a1106.json",
+					"name" : "GravityLib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "display::@c4cde679fe60da11761e",
+					"jsonFile" : "target-display-Debug-bb8b6010e13f20d091a5.json",
+					"name" : "display",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "object::@d2ba7703a76a0fc95864",
+					"jsonFile" : "target-object-Debug-702d03df64a8b884ff78.json",
+					"name" : "object",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "space::@d4bfc3b96c29b1f693c5",
+					"jsonFile" : "target-space-Debug-4a6ea37ddab79a73b095.json",
+					"name" : "space",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/stepa/svatys/project/src/out/build/x64-Debug",
+		"source" : "C:/Users/stepa/svatys/project/src"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
