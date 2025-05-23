@@ -26,6 +26,8 @@ A C++ simulation/game where you control or observe the movement of objects in sp
 
 ## Building
 
+I added whole build, so there is no need for building it.
+
 ```bash
 git clone https://github.com/Mzimec/SpaceShipGame.git
 cd SpaceShipGame
@@ -36,9 +38,8 @@ make
 ```
 
 ## Running
-```bash
-./SpaceShipGame
-```
+
+Exetutable file is located in build/Debug/GravityLib.exe
 
 ## Controls
 
